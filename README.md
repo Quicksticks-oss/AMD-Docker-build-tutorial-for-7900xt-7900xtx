@@ -2,7 +2,7 @@
 
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/8172#discussion-4904543
 
-##Hello Team,
+## Hello Team,
 
 After purchasing my first AMD GPU (7900xt) I hit a big stop when I tried to run SD on my new config. After some troubleshooting/reading lot of github issues, I was able to build an unstable (really ! very unstable) docker image with 7900xt (gfx1100 GPU) support for ROCM and Pytorch.
 
