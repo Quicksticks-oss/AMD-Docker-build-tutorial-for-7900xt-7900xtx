@@ -1,6 +1,6 @@
 # AMD-Docker-build-tutorial-for-7900xt-7900xtx
 
-https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/8172#discussion-4904543
+(Link)[https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/8172#discussion-4904543]
 
 ## Hello Team,
 
@@ -168,3 +168,5 @@ Regards,
 
 Nikos
 
+Posted here by: Miles Ryan
+Created by: Nikos
